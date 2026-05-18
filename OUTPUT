@@ -1,0 +1,29 @@
+======================================
+ARENA RPG: GELOMBANG MONSTER
+=======================================
+
+AWAS! Sekelompok monster menghadang Anda!
+
+---STATUS MONSTER---
+1.Slime Asam (HP : 50)
+2.Naga Hitam (HP : 500)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+1
+Masukkan kekuatan serangan (10-100) : 
+300
+KESALAHAN GAME : Kekuatan serangan harus di antara 10 hingga 100!
+
+---STATUS MONSTER---
+1.Slime Asam (HP : 50)
+2.Naga Hitam (HP : 500)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+4
+Anda lari terbirit - birit dari arena....
+Permainan Berakhir.
+wahmang@192 LatihanGame % 
